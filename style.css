@@ -1,0 +1,102 @@
+body{
+    background-color: coral;
+}
+.titulo{margin-bottom: 0;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    padding-top:30px;
+}
+.titulo p{margin-top: 50px;}
+
+    .instruction{ margin-bottom: 10px;
+        margin-top: 0px;
+        margin-left: 30px;
+font-family: 'Roboto', sans-serif;
+font-weight: 10;
+}
+p{ font-family: 'Roboto', sans-serif;font-weight:999;
+}
+.form{margin-top: 0px;}
+.form p { margin-bottom: 3px;}
+.box{
+    width: 600px;
+    height: 550px;
+    background-color: white;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 100px;
+    border-radius: 2em;
+    
+}
+.upsideform{
+    margin-top:0px ;
+    display: flex;
+    flex-direction: row;
+}
+.upsideform1{
+    margin-left: 30px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;}
+
+    .upsideform2{
+        display: flex;
+        flex-direction: column;
+}
+.upsideform1 input{
+border-radius: 2em}
+.upsideform2 input{
+    border-radius: 2em}
+
+.middleform{
+    margin-left:10px ;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.middleform1{
+    margin-right: 20px; 
+margin-left:20px}
+ .middleform1 input{           
+border-radius: 2em
+ }
+.middleform2 input{         
+border-radius: 2em
+}
+
+.downside input{
+    margin-left: 20px;
+    width: 400px;
+    height: 50px;
+    border-radius: 1em;
+    margin-bottom: 30px;
+}
+.downside p{
+    margin-left: 20px;
+    margin-bottom: 0px; 
+    margin-top: 40px;   
+}
+.upsideform input{
+width: 250px ;height: 40px ;
+
+}
+.middleform input{
+    width: 250px; height: 40px;
+}
+.downside{
+    margin-left: 10px;
+}
+.downside input{
+    width: 530px;
+    height: 80px;
+}
+.button{
+    width: 20px;
+    height: 20px;
+    margin-left: 30px;
+    margin-top: 10px;  
+}
+.button input[type=submit]{width:80px;height: 30px;border-radius: 2em; background: rgb(255, 0, 98); border: none; ; font-family: 'Handlee', cursive; font-family: 'Roboto', sans-serif; color: white }
